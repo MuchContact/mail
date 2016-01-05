@@ -8,3 +8,4 @@
 Reference:
 ---
 http://www.runoob.com/java/java-sending-email.html
+http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=369
