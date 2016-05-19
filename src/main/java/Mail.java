@@ -58,8 +58,8 @@ public class Mail {
 //                    "422549477@qq.com,422549477@qq.com");
 
             message.addRecipients(Message.RecipientType.TO,
-                    new InternetAddress[]{new InternetAddress("422549477@qq.com"),
-                            new InternetAddress("422549477@qq.com")});
+                    new InternetAddress[]{new InternetAddress(to),
+                            new InternetAddress(to)});
             // Set Subject: 头部头字段
             message.setSubject("This is the Subject Line!");
 
